@@ -11,6 +11,7 @@
 
   <PropertyGroup>
     <NoWarn>$(NoWarn);CA1822</NoWarn>
+    <WarningsNotAsErrors>$(WarningsNotAsErrors)</WarningsNotAsErrors>
   </PropertyGroup>
 
   <ItemGroup>
